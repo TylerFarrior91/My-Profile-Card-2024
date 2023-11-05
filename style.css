@@ -130,11 +130,11 @@ body {
 }
 
 .profile:hover li:nth-child(3) a {
-    transition-delay: 0.35s;
+    transition-delay: 0.3s;
 }
 
 .profile:hover li:nth-child(4) a {
-    transition-delay: 0.45s;
+    transition-delay: 0.4s;
 }
 
 .profile-name {
